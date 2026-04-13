@@ -1,0 +1,14 @@
+# The "Brain" and Orchestration
+langchain>=0.3.0
+langgraph>=0.2.0
+langchain-aws>=0.2.0
+
+# AWS Connection - Let LangChain decide the best version
+boto3>=1.34.131
+
+# The UI (The Dashboard)
+streamlit>=1.32.0
+
+# Data & PDF Handling
+pypdf>=4.1.0
+chromadb>=0.4.24
